@@ -23,9 +23,5 @@ A swimming logbook, data analyzer and workout generator. &amp; Designed with bri
 Google Sheets, SheetsApp, Google Forms, Apps Script
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ab182ef5-9898-4d5b-9e4d-977d0f40dd83" width="400" height="250" >
+  <img src="https://github.com/user-attachments/assets/8a755f41-413d-422b-bb0c-2cc2a660b95c" width="250" height="250" >
 </p>
-
-
-![Image](https://github.com/user-attachments/assets/8a755f41-413d-422b-bb0c-2cc2a660b95c)
-
